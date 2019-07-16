@@ -15,4 +15,4 @@ The program implements two heuristic algorithms which find the shortest path fro
   - Both algorithms start with a given input node and iteratively determine the next node in a shortest path
     - In determining which node to choose as the next node, they use different heuristics
 <br><br>
-![alt text](https://github.com/mhbrickley/Graph-Algorithm/blob/master/cmd.PNG)
+![alt text](https://github.com/mhbrickley/Graph-Algorithm/blob/master/cmd.png)
