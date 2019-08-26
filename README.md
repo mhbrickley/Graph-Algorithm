@@ -1,4 +1,5 @@
-### Graph Algorithm
+### Final project for `MET CS 526: Data Structures and Algorithms`
+#### Graph Algorithm
 
 The program reads two input files: (1) graph_input.txt and (2) direct_distance.txt
 
